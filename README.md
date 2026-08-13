@@ -6,7 +6,7 @@ At Remyx I work on evaluation: deciding what a change is supposed to improve, ru
 
 We build [Outrider](https://github.com/marketplace/actions/remyx-outrider), which reads new papers and opens pull requests implementing them against real codebases. One is [merged into `huggingface/peft`](https://github.com/huggingface/peft/pull/3382) with three more in review. We also maintain [VQASynth](https://github.com/remyxai/VQASynth), the open reproduction of SpatialVLM behind the [SpaceLLaVA](https://huggingface.co/remyxai) models.
 
-I co-organize [Experiment](https://experiment.remyx.ai), an unconference for engineers working on AI systems.
+Last year, we co-organized the inagural [Experiment](https://experiment.remyx.ai), an unconference for engineers working on AI systems.
 
 <p>
   <a href="https://pypi.org/project/remyxai/"><img alt="remyxai installs per month" src="https://img.shields.io/pypi/dm/remyxai?style=flat-square&labelColor=0d1117&color=E23E3E&label=remyxai%20installs&logo=pypi&logoColor=white"></a>
