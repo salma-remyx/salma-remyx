@@ -1,4 +1,4 @@
-# Hi, I'm Salma! 👋
+# Hi, I'm Salma! 🖖
 
 Co-founder & CEO at [Remyx AI](https://remyx.ai).
 I build developer tools for finding, implementing, and evaluating changes to production ML systems.
