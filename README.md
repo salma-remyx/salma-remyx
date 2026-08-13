@@ -1,17 +1,28 @@
-### Salma Mayorquin
+# Hi, I'm Salma! 👋
 
-Co-founder and CEO of [Remyx AI](https://remyx.ai). Applied math at UC Berkeley, then ten years of production ML across robotics, healthcare, and enterprise data, most recently as a solutions architect at Databricks.
+Co-founder & CEO at [Remyx AI](https://remyx.ai).
+I build developer tools for finding, implementing, and evaluating changes to production ML systems.
 
-At Remyx I work on evaluation: deciding what a change is supposed to improve, running the checks that would show it, and keeping those results next to the code and the experiment history.
+## Remyx
 
-We build [Outrider](https://github.com/marketplace/actions/remyx-outrider), which reads new papers and opens pull requests implementing them against real codebases. One is [merged into `huggingface/peft`](https://github.com/huggingface/peft/pull/3382) with three more in review. We also maintain [VQASynth](https://github.com/remyxai/VQASynth), the open reproduction of SpatialVLM behind the [SpaceLLaVA](https://huggingface.co/remyxai) models.
+[![Outrider](https://img.shields.io/badge/GitHub%20Marketplace-Outrider-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/marketplace/actions/remyx-outrider)
+[![VQASynth](https://img.shields.io/github/stars/remyxai/VQASynth?style=flat-square&logo=github&label=VQASynth)](https://github.com/remyxai/VQASynth)
+[![Model on Hugging Face](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/remyxai)
 
-In 2025, we co-organized the inagural [Experiment](https://experiment.remyx.ai), an unconference for engineers working on AI systems.
+[Outrider](https://github.com/marketplace/actions/remyx-outrider) works inside GitHub. It finds promising techniques for a codebase and drafts implementations engineers can inspect and test.
 
-<p>
-  <a href="https://pypi.org/project/remyxai/"><img alt="remyxai installs per month" src="https://img.shields.io/pypi/dm/remyxai?style=flat-square&labelColor=0d1117&color=E23E3E&label=remyxai%20installs&logo=pypi&logoColor=white"></a>
-  <a href="https://github.com/remyxai/VQASynth"><img alt="VQASynth stars" src="https://img.shields.io/github/stars/remyxai/VQASynth?style=flat-square&labelColor=0d1117&color=E23E3E&label=VQASynth&logo=github"></a>
-  <a href="https://huggingface.co/remyxai"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97-remyxai-FFD21E?style=flat-square&labelColor=0d1117"></a>
-</p>
+Outrider has helped produce contributions for [PEFT](https://github.com/huggingface/peft), [LeRobot](https://github.com/huggingface/lerobot), and [TRL](https://github.com/huggingface/trl). Work from Outrider has already [merged into PEFT](https://github.com/huggingface/peft/pull/3382).
 
-[remyx.ai](https://remyx.ai) · [writing](https://remyxai.substack.com) · [smellslike.ml](https://smellslike.ml) · [linkedin](https://www.linkedin.com/in/smayorquin/)
+Remyx has published open models for spatial reasoning and embodied AI. Recent model families include [SpaceThinker](https://huggingface.co/remyxai/SpaceThinker-Qwen2.5VL-3B), [SpaceOm](https://huggingface.co/remyxai/SpaceOm), [SpaceLLaVA](https://huggingface.co/remyxai/SpaceLLaVA), and [SpaceQwen](https://huggingface.co/remyxai/SpaceQwen2.5-VL-3B-Instruct).
+
+## Experience
+
+- Former Databricks Solutions Architect
+- 10+ years in applied ML across robotics, healthcare, and enterprise data
+- Applied Math at UC Berkeley
+
+## Community
+
+I co-organize [Experiment](https://experiment.remyx.ai), an AI engineering unconference with 900+ registrations in 2025.
+
+[remyx.ai](https://remyx.ai) · [Hugging Face](https://huggingface.co/remyxai) · [Experiment](https://experiment.remyx.ai) · [LinkedIn](https://www.linkedin.com/in/smayorquin/)
